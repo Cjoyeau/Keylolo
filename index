@@ -1,0 +1,10 @@
+<!-- my first html doc-->
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <p>This my first website</p><br>
+        <p>Welcome</p>
+    </body>
+</html>
